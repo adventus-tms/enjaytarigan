@@ -5,7 +5,6 @@
 - 💻 I'm a Full Stack Developer
 - 🌱 I’m currently learning Golang, Node JS, React, React Native
 - 💬 Ask me about Node JS, React Native
-- 📫 How to reach me: tariganagc@gmail.com
 
 ## Tech Stack
 
