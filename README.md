@@ -2,10 +2,6 @@
 
 # Enjay Tarigan
 
-- 💻 I'm a Full Stack Developer
-- 🌱 I’m currently learning Go, Typescript, Node JS, React, React Native
-- 💬 Ask me about Node JS, React Native
-
 ## Tech Stack
 
 
